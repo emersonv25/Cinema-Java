@@ -1,2 +1,13 @@
-# Cinema-Java
-Sistema de compras de ingresso desenvolvido em Java, para a materia de POO do meu 3ª periodo em 2020.1
+# ContaBancaria
+* 2020.1
+* Sistema que simula compras de ingressos de um cinema desenvolvido em Java
+*  Atividade da materia de programação orientada a objetos 2020.1
+
+
+# Author
+
+* @emersonv25 [https://github.com/emersonv25]
+* @matheus55391 [https://github.com/matheus55391]
+* Autor: Emerson de Jesus Santos & Matheus Felipe Vieira Santiago
+* Formando em Analise e Desenvolvimento de Sistemas
+* Centro Universitário Maurício de Nassau
